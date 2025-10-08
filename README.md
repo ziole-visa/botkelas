@@ -29,7 +29,7 @@ npm install
 npm start
 ```
 
-### 4️⃣ Scan QR Code
+### 4️⃣ pairing bot 
 saat pertama dijalan kan langsung masukan nomer whatsapp yang ingin digunakan seperti 62XXXX (bisa ganti 62 dengan kode internasional) lalu akan muncul kode pairing dan kamu masukan di perangkat tertaut > tambah perangkat > gunakn kode .
 
 ---

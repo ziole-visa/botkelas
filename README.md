@@ -26,7 +26,7 @@ npm install
 
 ### 3️⃣ Jalankan bot
 ```bash
-node main.js
+npm start
 ```
 
 ### 4️⃣ Scan QR Code

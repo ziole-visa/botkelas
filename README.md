@@ -15,7 +15,7 @@ Bot Kelas adalah bot WhatsApp open-source berbasis **Node.js** yang dirancang un
 
 ### 1️⃣ Clone repository
 ```bash
-git clone https://github.com/username/botkelas.git
+git clone https://github.com/ziole-visa/botkelas.git
 cd botkelas
 ```
 
@@ -30,8 +30,7 @@ node main.js
 ```
 
 ### 4️⃣ Scan QR Code
-Saat pertama dijalankan, bot akan menampilkan QR code di terminal.
-Scan dengan WhatsApp kamu untuk koneksi.
+saat pertama dijalan kan langsung masukan nomer whatsapp yang ingin digunakan seperti 62XXXX (bisa ganti 62 dengan kode internasional) lalu akan muncul kode pairing dan kamu masukan di perangkat tertaut > tambah perangkat > gunakn kode .
 
 ---
 
@@ -47,23 +46,6 @@ Scan dengan WhatsApp kamu untuk koneksi.
 ├── data/                  # Data dinamis (absen, kas, event, catatan, dsb)
 └── mutedGroups.json       # Daftar grup yang dibisukan
 ```
-
----
-
-## ⚙️ Konfigurasi (settings.json)
-
-Edit `settings.json` untuk ubah nama bot, owner, prefix, atau mode.
-
-```json
-{
-  "owner": ["628xxxxxxx"],
-  "botName": "Bot Kelas",
-  "ownerName": "Ziole",
-  "prefix": ".",
-  "mode": "public"
-}
-```
-
 ---
 
 ## 🧩 Command Utama
@@ -86,6 +68,7 @@ Bot Kelas bisa dijalankan di berbagai platform:
 - Replit
 - Heroku
 - Vercel (untuk web dokumentasi)
+- ptrodactyl (sangat disarankan)
 - VPS / Linux Server (direkomendasikan)
 
 ---

@@ -161,7 +161,7 @@ async function ziolestart() {
         } else if (connection === "connecting") {
             console.log(color('Menghubungkan . . . '));
         } else if (connection === "open") {
-            console.log(color('Bot Berhasil Tersambung'));
+            console.log(color('Bot Berhasil Tersambung trimakasih telah menggunakan bot ini cr ziole-visa'));
         }
     });
 

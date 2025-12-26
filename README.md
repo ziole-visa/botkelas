@@ -92,3 +92,4 @@ Kamu bebas menggunakan, memodifikasi, dan menyebarkan ulang dengan tetap menyert
 
 terimakasih telah menggunakan bot saya dan saya sangat mengapresiasi segala bentuk dukungan yang anda berikan 
 sampai jumpa di projek selanjutnya byeeee
+** note ya module ini di perjelas fungsi dan pengguanaan nya oleh ai agar lebih gampang di modifikasi karna saya gak jago menjelaskan

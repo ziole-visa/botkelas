@@ -87,7 +87,7 @@ async function ziolestart() {
 
     // 🔑 Pairing Code
     if (usePairingCode && !ziole.authState.creds.registered) {
-        console.log('masukan nomer lu');
+        console.log('masukan nomer bot anda');
         const phone = await question('[?] Masukkan Nomor HP (contoh: 628123456789): ');
         const cleanPhone = phone.trim().replace(/[^0-9]/g, '');
         const code = await ziole.requestPairingCode(cleanPhone);
